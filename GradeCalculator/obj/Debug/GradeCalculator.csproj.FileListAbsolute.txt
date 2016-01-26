@@ -1,0 +1,6 @@
+c:\users\mrspock\documents\visual studio 2015\Projects\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe.config
+c:\users\mrspock\documents\visual studio 2015\Projects\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.exe
+c:\users\mrspock\documents\visual studio 2015\Projects\GradeCalculator\GradeCalculator\bin\Debug\GradeCalculator.pdb
+c:\users\mrspock\documents\visual studio 2015\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.csprojResolveAssemblyReference.cache
+c:\users\mrspock\documents\visual studio 2015\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.exe
+c:\users\mrspock\documents\visual studio 2015\Projects\GradeCalculator\GradeCalculator\obj\Debug\GradeCalculator.pdb
